@@ -11,3 +11,4 @@
     "wagmi": "wagmi generate"
  },
   "husky": {
+ "hooks": {
