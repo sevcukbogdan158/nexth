@@ -20,3 +20,5 @@
       "lint",
   "prettier"
     ]
+  },
+  "dependencies": {
