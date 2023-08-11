@@ -43,3 +43,4 @@
     "wagmi": "^1.0.0-next.9"
   },
   "devDependencies": {
+   "@tsconfig/next": "^1.0.4",
