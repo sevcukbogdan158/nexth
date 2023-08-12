@@ -44,3 +44,4 @@
   },
   "devDependencies": {
    "@tsconfig/next": "^1.0.4",
+ "@types/node": "18.11.18",
