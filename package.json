@@ -31,3 +31,4 @@
  "@web3modal/ethereum": "^2.4.1",
   "@web3modal/react": "^2.4.1",
     "dayjs": "^1.11.7",
+  "framer-motion": "^8.0.2",
