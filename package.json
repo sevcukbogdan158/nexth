@@ -8,4 +8,6 @@
     "start": "next start",
   "lint": "next lint --fix",
  "prettier": "prettier './src' --write",
-  
+   "wagmi": "wagmi generate"
+  },
+  "husky": {
