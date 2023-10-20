@@ -11,3 +11,6 @@
    "wagmi": "wagmi generate"
   },
   "husky": {
+  "hooks": {
+      "pre-commit": "lint-staged"
+    }
