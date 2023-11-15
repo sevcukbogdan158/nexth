@@ -3,4 +3,4 @@
   "version": "0.1.0",
   "license": "MIT",
 "scripts": {
-  
+    "dev": "yarn workspaces -pt run dev",
