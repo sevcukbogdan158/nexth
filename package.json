@@ -4,3 +4,4 @@
   "license": "MIT",
 "scripts": {
   "dev": "yarn workspaces -pt run dev",
+ "build": "yarn workspaces -pt run build",
