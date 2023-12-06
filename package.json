@@ -8,3 +8,4 @@
  "test": "yarn workspaces -pt run test"
   },
   "dependencies": {},
+  "devDependencies": {}
